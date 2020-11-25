@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+@font-face {
+    font-family: myGotham;
+    src: url(GothamBold.ttf);
+    font-weight: bold;
+}
+
+.bg {
+    background-image: linear-gradient(#009BAA,#005EA5);
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    min-height: 15%;
+    max-height: 15%;
+    width: auto;
+    position: center;
+    padding-top: 50px;
+}
+
+.characters {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: auto;
+    max-height: 45%;
+    position: center;
+}
+
+.msg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: myGotham;
+    color: white;
+    margin-top:10px;
+}
