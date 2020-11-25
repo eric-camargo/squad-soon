@@ -24,20 +24,21 @@ body, html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
-    min-height: 15%;
-    max-height: 15%;
+    height: 10vh;
     width: auto;
     position: center;
-    padding-top: 5%;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
 }
 
 .characters {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 5%;
+    padding-top: 8vh;
+    padding-bottom: 4vh;
     width: auto;
-    max-height: 45%;
+    height: 45vh;
     position: center;
 }
 
@@ -47,6 +48,8 @@ body, html {
     margin-right: auto;
     text-align: center;
     font-family: myGotham;
+    font-size: 4vh;
     color: white;
-    margin-top:2%;
+    padding-top:3vh;
+    padding-bottom: 9vh;
 }
