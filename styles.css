@@ -28,14 +28,14 @@ body, html {
     max-height: 15%;
     width: auto;
     position: center;
-    padding-top: 50px;
+    padding-top: 5%;
 }
 
 .characters {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 50px;
+    padding-top: 5%;
     width: auto;
     max-height: 45%;
     position: center;
@@ -48,5 +48,5 @@ body, html {
     text-align: center;
     font-family: myGotham;
     color: white;
-    margin-top:10px;
+    margin-top:2%;
 }
